@@ -49,10 +49,10 @@ const sidebarUtils = [
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "template-vitepress",
-  description: "template-vitepress",
+  title: "travel-blog",
+  description: "travel-blog",
   // Use repository name for GitHub Pages, fallback to root '/' for Netlify
-  base: IS_GITHUB_ACTIONS ? '/template-vitepress' : '/',
+  base: IS_GITHUB_ACTIONS ? '/travel-blog' : '/',
   cleanUrls: true,
   ignoreDeadLinks: true,
   head: [

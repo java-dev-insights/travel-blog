@@ -1,4 +1,4 @@
-# template-vitepress
+# travel-blog
 
 private template for vitepress repo
 
