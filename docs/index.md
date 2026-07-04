@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "template-vitepress"
-  text: "template-vitepress"
+  name: "travel-blog"
+  text: "travel-blog"
   tagline: My great project tagline
   image:
     alt: Hero Image
